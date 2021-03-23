@@ -7,3 +7,6 @@ Awesome Aspects of Graph Protocol
 
 ## Everest Graph Registry
 - https://github.com/graphprotocol/everest
+
+## GraphQL ReactJS UI App
+- https://github.com/graphprotocol/hackathon-react-apollo-app
